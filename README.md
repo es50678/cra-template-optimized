@@ -12,28 +12,28 @@ my-app
 │   ├── favicon.ico
 │   ├── index.html
 │   └── manifest.json
-└── src
-    ├── components
-    |   ├── component-name
-    |   │   ├── component-name.css
-    |   │   ├── component-name.scss
-    |   │   ├── component-name-styles.js
-    |   │   ├── component-name.js
-    |   │   └── index.js
-    |   └── index.js
-    ├── images
-    │   │   └── logo.svg
-    │   ├── packages
-    │   │   └── ...
-    │   ├── utils
-    │   │   ├── ...
-    │   │   └── index.js
-    │   ├── index.css
-    │   ├── index.js
-    │   └── service-worker.js
-    ├── .gitignore
-    ├── package.json
-    └── README.md
+├── src
+│    ├── components
+│    │   ├── component-name
+│    │   │   ├── component-name.css
+│    │   │   ├── component-name.scss
+│    │   │   ├── component-name-styles.js
+│    │   │   ├── component-name.js
+│    │   │   └── index.js
+│    │   └── index.js
+│    ├── images
+│    │   │   └── logo.svg
+│    ├── packages
+│    │   └── ...
+│    ├── utils
+│    │   ├── ...
+│    │   └── index.js
+│    ├── index.css
+│    ├── index.js
+│    └── service-worker.js
+├── .gitignore
+├── package.json
+└── README.md
 ```
 
 ## Usage
