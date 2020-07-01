@@ -1,0 +1,12 @@
+{
+  "name": "@es50678/cra-template-optimizied",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:es50678/cra-template-optimized.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Eduardo Hernandez Soto <es50678@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
