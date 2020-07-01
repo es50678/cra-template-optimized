@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-optimized",
-  "version": "1.0.3",
+  "name": "@es50678/cra-template-optimized",
+  "version": "1.0.4",
   "main": "template.json",
   "repository": {
     "type": "git",
