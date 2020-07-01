@@ -1,7 +1,10 @@
 {
   "name": "@es50678/cra-template-optimizied",
-  "version": "1.0.1",
-  "repository": "git@github.com:es50678/cra-template-optimized.git",
+  "version": "1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/es50678/cra-template-optimized.git"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
